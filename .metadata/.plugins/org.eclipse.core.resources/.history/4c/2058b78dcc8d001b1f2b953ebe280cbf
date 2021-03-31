@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int descuento(int numero);
+
+int main(){
+	setbuf(stdout, NULL);
+	float numIngresado;
+	printf("Escriba un numero:");
+	scanf("%f",&numIngresado);
+	if(numIngresado>100 || numIngresado<10){
+		printf("ERROR. Esta fuera de parametros");
+		scanf("&d",&numIngresado);
+	}
+
+return 0;
+}
+
+int descuento(int numero){
+	float
+return 0;
+}

@@ -1,0 +1,28 @@
+/*
+ ============================================================================
+ Name        : Clase.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int ingNum(); //declarar
+
+int main() {
+	setbuf(stdout, NULL);
+	int txt;
+	txt = ingNum();
+	printf("El texto es \n %d", txt); //invocar
+	return EXIT_SUCCESS;
+}
+int ingNum() {
+	int numIngresado;
+	printf("Ingrese número: ");
+	numIngresado = scanf(""); //desarrollo
+	return numIngresado;
+}

@@ -1,0 +1,19 @@
+/*
+ * calculos.h
+ *
+ *  Created on: 31 mar. 2021
+ *      Author: bayam
+ */
+
+#ifndef SRC_CALCULOS_H_
+#define SRC_CALCULOS_H_
+
+/*brief Calcula la suma de dos numeros
+ * param1 recibe un número entero para sumar
+ * param2 recibe un número entero para sumar
+ * retorno devuelve 0 o la suma de los números recibidos por parámetros
+ * */
+
+int sumar(numero1, numero2);
+
+#endif /* SRC_CALCULOS_H_ */

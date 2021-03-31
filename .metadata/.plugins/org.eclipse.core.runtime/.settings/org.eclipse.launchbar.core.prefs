@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/Clase\ 2.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Clase3EJ1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Clase3EJ2.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Clase4Bibliotecas.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ejercicio.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/IntentosVarios.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/cursoUTN.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:IntentosVarios.exe,org.eclipse.launchbar.core.descriptorType.default\:Ejercicio.exe,org.eclipse.launchbar.core.descriptorType.default\:cursoUTN.exe,org.eclipse.launchbar.core.descriptorType.default\:Clase 2.exe,org.eclipse.launchbar.core.descriptorType.default\:Clase3EJ1.exe,org.eclipse.launchbar.core.descriptorType.default\:Clase3EJ2.exe,org.eclipse.launchbar.core.descriptorType.default\:Clase4Bibliotecas.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Clase\ 2.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Clase\ 2.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:cursoUTN.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:cursoUTN.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
