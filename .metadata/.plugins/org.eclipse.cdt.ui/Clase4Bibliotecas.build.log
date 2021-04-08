@@ -1,1 +1,8 @@
-Info: Nothing to build for Clase4Bibliotecas
+19:47:13 **** Rebuild of configuration Debug for project Clase4Bibliotecas ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Biblioteca.o" "..\\src\\Biblioteca.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculos.o" "..\\src\\calculos.c" 
+gcc -o Clase4Bibliotecas.exe "src\\Biblioteca.o" "src\\calculos.o" 
+
+19:47:16 Build Finished. 0 errors, 0 warnings. (took 2s.780ms)
+
